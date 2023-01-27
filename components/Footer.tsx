@@ -16,11 +16,11 @@ export default function Footer() {
                         </li>
 
                         <li style={{ margin: "0px 12px"}} className="nav-item">
-                            <a className="nav-link" href="#">Blog</a>
+                            <a className="nav-link" href="/about">About</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Contact</a>
+                            <a className="nav-link" href="/contact">Contact</a>
                         </li>
 
                     </ul>

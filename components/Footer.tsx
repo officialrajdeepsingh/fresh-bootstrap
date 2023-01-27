@@ -3,7 +3,7 @@ export default function Footer() {
 
     return (
 
-        <nav className="container navbar navbar-expand-lg">
+        <footer className="container navbar navbar-expand-lg">
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">Frontend web</a>
 
@@ -27,7 +27,7 @@ export default function Footer() {
 
                 </div>
             </div>
-        </nav>
+        </footer>
 
     );
 }

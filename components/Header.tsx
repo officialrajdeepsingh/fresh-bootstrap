@@ -2,7 +2,7 @@
 export default function Header() {
 
     return (
-        <nav className="container navbar navbar-expand-lg">
+        <header className="container navbar navbar-expand-lg">
             <div className="container-fluid">
                 <a className="navbar-brand" href="/">Frontend web</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,6 +55,6 @@ export default function Header() {
                 </div>
 
             </div>
-        </nav>
+        </header>
     );
 }

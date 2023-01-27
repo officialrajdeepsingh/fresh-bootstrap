@@ -12,7 +12,7 @@ export default function Footer() {
                     <ul style={{ display: "flex", flexDirection: "row"}} className="flex navbar-nav mx-auto mb-2 mb-lg-0">
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
+                            <a className="nav-link active" aria-current="page" href="/">Home</a>
                         </li>
 
                         <li style={{ margin: "0px 12px"}} className="nav-item">
